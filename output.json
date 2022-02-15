@@ -1,0 +1,7 @@
+{
+    "event": "products_cleared",
+    "properties": {
+        "messageId": "ajs-next-d423712cac27f6e73c7523e5b313a9d9",
+        "originalTimestamp": "2022-01-26T15:27:06.313Z"
+    }
+}
